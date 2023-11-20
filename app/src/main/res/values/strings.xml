@@ -3,4 +3,9 @@
 
     <string name="countdown_widget_description">Countdown Widget</string>
     <string name="countdown_widget_zero">0</string>
+
+    <string name="conf_widget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="conf_widget_description">Config Widget</string>
 </resources>
